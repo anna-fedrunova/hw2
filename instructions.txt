@@ -1,0 +1,2 @@
+To make scripts from .sh files executable run
+chmod +x file_name.sh
